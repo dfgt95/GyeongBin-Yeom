@@ -2,7 +2,7 @@
 
 -제목 : Trigon FRVR
 
--원작 : ![Trigon FRVR](/Trigon_FRVR.jpg)
+-원작 : ![Trigon FRVR](./Trigon_FRVR.jpg)
 
         3가지의 다른색의 꼭짓점으로 이루어진 삼각형으로 같은색의 막대를 받아 점수를 올리는 게임.
 
