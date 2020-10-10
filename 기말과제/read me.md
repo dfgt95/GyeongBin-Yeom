@@ -52,18 +52,18 @@
 
 # 5. 개발 일정
 - 1주차
- - Game Object 제작 : Triange, Stick, Button
+  - Game Object 제작 : Triange, Stick, Button
 - 2주차
- - Game FrameWork제작 : draw()함수 제작. Update()함수 제작.
+  - Game FrameWork제작 : draw()함수 제작. Update()함수 제작.
 - 3주차
- - Game FrameWork제작 : draw()함수 제작. Collision()함수 제작.
+  - Game FrameWork제작 : draw()함수 제작. Collision()함수 제작.
 - 4주차
- - State 제작 : HighScore, Title, Game, GameOver
+  - State 제작 : HighScore, Title, Game, GameOver
 - 5주차
- - State 제작 : 각 State별 이동조건 제작. 버튼을 통해 이동.
+  - State 제작 : 각 State별 이동조건 제작. 버튼을 통해 이동.
 - 6주차
- - State 제작 : GameState 완성,.
+  - State 제작 : GameState 완성,.
 - 7주차
- - 게임 플레이, 버그수정.
+  - 게임 플레이, 버그수정.
 - 8주차
- - 게임 플레이, 버그수정.
+  - 게임 플레이, 버그수정.
