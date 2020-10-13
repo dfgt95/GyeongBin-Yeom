@@ -2,7 +2,7 @@
 
 -제목 : Trigon FRVR
 
--원작 : ![Trigon FRVR](./Trigon_FRVR.jpg)
+-원작 : ![Trigon FRVR](./res/Trigon_FRVR.jpg)
 
         3가지의 다른색의 꼭짓점으로 이루어진 삼각형으로 같은색의 막대를 받아 점수를 올리는 게임.
 
@@ -13,13 +13,13 @@
 ---
 # 2. GameState (Scene) 의 수 및 각각의 이름
 
-1. Title
+1. Title ![Title](./res/Title.png)
 
-2. Game
+2. Game ![Game](./res/Game.png)
 
-3. GameOver
+3. GameOver ![Game Over](./res/Game Over.png)
 
-4. HighScore
+4. HighScore ![High Score](./res/High Score.png)
 
 ---
 # 3. 각 GameState 별 항목
