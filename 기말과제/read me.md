@@ -12,14 +12,7 @@
 
 ---
 # 2. GameState (Scene) 의 수 및 각각의 이름
-
-1. Title ![Title](./res/Title.png)
-
-2. Game ![Game](./res/Game.png)
-
-3. GameOver ![Game Over](./res/Game Over.png)
-
-4. HighScore ![High Score](./res/High Score.png)
+<img src="./res/Title.png" width="200"><img src="./res/Game.png" width="200"><img src="./res/GameOver.png" width="200"><img src="./res/HighScore.png" width="200">
 
 ---
 # 3. 각 GameState 별 항목
